@@ -1,7 +1,7 @@
 {
   "name": "set-permissions",
   "version": "1.0.0",
-  "description": "Set Video Permissions",
+  "description": "Set Video Permission",
   "main": "index.js",
   "scripts": {
     "test": "run-local-lambda --file index.js --event tests/event.json",
